@@ -1,0 +1,119 @@
+/*Universals*/
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: ivory;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.colors {
+    border: 2px solid gray;
+    padding-left: 10px;
+}
+
+#allcolor {
+    width: 300px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.color1 {
+    width: 300px;
+    height: 100px;
+    background-color: darkslategray;
+    text-align: center;
+    color: aliceblue;
+}
+
+.color2 {
+    width: 300px;
+    height: 100px;
+    background-color: firebrick;
+    text-align: center;
+    color: aliceblue;
+}
+
+.color3 {
+    width: 300px;
+    height: 100px;
+    background-color: lawngreen;
+    text-align: center;
+    color: black;
+}
+
+.color4 {
+    width: 300px;
+    height: 100px;
+    background-color: goldenrod;
+    text-align: center;
+    color: aliceblue;
+}
+
+.color5 {
+    width: 300px;
+    height: 100px;
+    background-color: indigo;
+    text-align: center;
+    color: aliceblue;
+}
+
+.color6 {
+    width: 300px;
+    height: 100px;
+    background-color: lavenderblush;
+    text-align: center;
+    color: black;
+}
+
+.fonts {
+    border: 2px solid gray;
+    padding-left: 10px;
+    margin-top: 30px;
+    line-height: 20px;
+}
+
+.hp {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.ubu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.ibm {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.ale {
+    font-family: 'Alegreya', serif;
+}
+
+#allfont {
+    display: inline-block;
+    margin-right: 80px;
+    width: 410px;
+}
+
+.text {
+    border: 2px solid gray;
+    padding-left: 10px;
+    margin-top: 30px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+.text h1 {
+    font-size: 26px;
+}
+
+.text h2 {
+    font-size: 18px;
+}
